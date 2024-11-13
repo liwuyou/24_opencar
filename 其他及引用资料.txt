@@ -1,0 +1,12 @@
+个人自用的arduino网站
+https://liwuyou.github.io/2024/09/05/Arduino-uno-%E5%BC%80%E5%8F%91/
+
+太极创客官网
+http://www.taichi-maker.com/
+
+引用的UP原链接
+【PID控制原理，看了开头，你就会看到结尾！】 
+https://www.bilibili.com/video/BV1GD4y1x7bV/?share_source=copy_web
+
+【使用Arduino IDE开发stm32】 
+https://www.bilibili.com/video/BV17vVaejExd/?share_source=copy_web&vd_source=bae7f44ac8b5e1669726b9f5e7d214b6
